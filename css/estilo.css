@@ -1,0 +1,22 @@
+
+h1{
+    text-align: center;
+    font-size:55 ;
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color:Lavender;
+}
+h2{
+    text-align: center;
+    font-size: 31;
+    color:violet;
+    font-family: 'Times New Roman', Times, serif;  
+}
+a{
+    text-align: center;
+    font-size: 21;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;  
+}
