@@ -1,20 +1,30 @@
 
 h1{
-    text-align: center;
+    text-align: right;
     font-size:55 ;
-    color:blueviolet;
+    color:darkgray;
     font-family: 'Times New Roman', Times, serif;
 }
 body{
-    background-color:Lavender;
+    background-color:EEEEE0;
+    margin:0 150px;
 }
 h2{
-    text-align: center;
-    font-size: 31;
-    color:violet;
+    text-align:center;
+    font-size:40;
+    color:darkgray;
     font-family: 'Times New Roman', Times, serif;  
 }
-a{
+div img{
+    border: 3px solid purple;
+    margin: 20px 10px;
+}
+
+div img:hover{
+    border: 3px solid yellow;
+}
+
+p{
     text-align: center;
     font-size: 21;
     color:black;
