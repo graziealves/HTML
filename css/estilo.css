@@ -49,3 +49,21 @@ a img {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20;
  }
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .logo{
+    font-size: 55;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+nav ul{
+    list-style: none;
+
+}
+nav ul li{
+    
+}
