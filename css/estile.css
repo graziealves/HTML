@@ -1,0 +1,57 @@
+body,ul,li,p{
+    margin: 0;
+    padding:0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.cabecalho{
+    background-color: pink;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    align-items: center;
+    
+
+}
+.menu{
+    display: flex;
+}
+
+.menu li{
+    margin-left: 10px;
+}
+
+.menu li a{
+    background-color: bisque;
+    display: block;
+    padding: 10px;
+}
+
+.headline{
+    display: flex;
+    justify-items: center;
+    margin-right: 10px;
+}
+
+.principal{ 
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+    align-items: center;
+    padding: 11px;
+    background-color: blanchedalmond;
+}
+.principal .chamada{
+    margin: 5px;
+}
+
+img {
+    max-width: 300px;
+    width: 300px;
+    max-height: 120px;
+    height: 120px;
+ }
